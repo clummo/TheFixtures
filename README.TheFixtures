@@ -1,0 +1,72 @@
+# TheFixtures
+#EXTM3U
+#EXTINF:0,Wimbledon LIVE
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Star_Sports_Select_HD_1/Star_Sports_Select_HD_1_1200.m3u8
+#EXTINF:0,Centre Court
+http://016-51.sport365.tech:43911/ls/9ceb51b432d1749cf0216c5612ff1096dbbacfc3ec31852430a9b96f96511ce0/1499860922/5965e94517e54331820593/jrqfdlmbdu4k48pfq1reqa39q3/596610492dcc6/index.m3u8
+#EXTINF:0,beIN Sports (ME) 1
+http://xc.cobra-iptv.com:25461/live/Beinexclusive-V2/ghO8nBbaHo/2233.ts
+#EXTINF:0,beIN Sports (ME) 2
+http://xc.cobra-iptv.com:25461/live/Beinexclusive-V2/ghO8nBbaHo/2234.ts
+#EXTINF:0,beIN Sports (ME) 3
+http://xc.cobra-iptv.com:25461/live/Beinexclusive-V2/ghO8nBbaHo/2235.ts
+#EXTINF:0,beIN Sports (ME) 4
+http://xc.cobra-iptv.com:25461/live/Beinexclusive-V2/ghO8nBbaHo/2236.ts
+#EXTINF:0,beIN Sports (ME) 5
+http://xc.cobra-iptv.com:25461/live/Beinexclusive-V2/ghO8nBbaHo/2237.ts
+#EXTINF:0,beIN Sports (ME) 6
+http://xc.cobra-iptv.com:25461/live/Beinexclusive-V2/ghO8nBbaHo/2238.ts
+#EXTINF:0,beIN Sports (ME) 7
+http://xc.cobra-iptv.com:25461/live/Beinexclusive-V2/ghO8nBbaHo/2239.ts
+#EXTINF:0,beIN Sports (ME) 8
+http://xc.cobra-iptv.com:25461/live/Beinexclusive-V2/ghO8nBbaHo/2240.ts
+#EXTINF:0,beIN Sports (ME) 9
+http://xc.cobra-iptv.com:25461/live/Beinexclusive-V2/ghO8nBbaHo/2241.ts
+#EXTINF:0,beIN Sports (ME) 10
+http://xc.cobra-iptv.com:25461/live/Beinexclusive-V2/ghO8nBbaHo/2242.ts
+#EXTINF:0,beIN Sports (ME) 11
+http://xc.cobra-iptv.com:25461/live/Beinexclusive-V2/ghO8nBbaHo/2243.ts
+#EXTINF:0,BT Sport ESPN
+http://185.142.239.164:3135/BT/Espn/index.m3u8
+#EXTINF:0,eir Sport 1
+http://185.142.239.164:3135/Setanta/Sports/index.m3u8
+#EXTINF:0,ESPN
+http://185.142.239.164:3135/Espn/1/index.m3u8
+#EXTINF:0,ESPN 2
+http://185.142.239.164:3135/Espn/2/index.m3u8
+#EXTINF:0,Eurosport 1 (UK)
+http://185.142.239.164:3135/Euro/1/index.m3u8
+#EXTINF:0,Eurosport 2 (UK)
+http://185.142.239.164:3135/Euro/2/index.m3u8
+#EXTINF:0,Fox Sport 1 (US)
+http://185.142.239.164:3135/1/FOX/index.m3u8
+#EXTINF:0,Fox Sport 2 (US)
+http://185.142.239.164:3135/2/FOX/index.m3u8
+#EXTINF:0,Premier Sports
+http://185.142.239.164:3135/Premiere/Sports/index.m3u8
+#EXTINF:0,PTV Sports
+http://185.142.239.164:3135/Ptv/Sports/index.m3u8
+#EXTINF:0,Sky Sports 1 (UK)
+http://185.142.239.164:3135/1/Sports/index.m3u8
+#EXTINF:0,Sky Sports 3 (UK)
+http://185.142.239.164:3135/3/Sports/index.m3u8
+#EXTINF:0,Sky Sports 4 (UK)
+http://185.142.239.164:3135/4/Sports/index.m3u8
+#EXTINF:0,Sky Sports 5 (UK)
+http://185.142.239.164:3135/5/Sports/index.m3u8
+#EXTINF:0,Sky Sports F1 (UK)
+http://185.142.239.164:3135/F1/Sports/index.m3u8
+#EXTINF:0,Supersport 1 (ALB)
+http://185.142.239.164:3135/Super/1/index.m3u8
+#EXTINF:0,Supersport 2 (ALB)
+http://185.142.239.164:3135/Super/2/index.m3u8
+#EXTINF:0,Supersport 3 (ALB)
+http://185.142.239.164:3135/Super/3/index.m3u8
+#EXTINF:0,Supersport 4 (ALB)
+http://185.142.239.164:3135/Super/4/index.m3u8
+#EXTINF:0,TEN 1
+http://185.142.239.164:3135/Ten/1/index.m3u8
+#EXTINF:0,TEN 2
+http://185.142.239.164:3135/Ten/2/index.m3u8
+#EXTINF:0,TEN 3
+http://185.142.239.164:3135/Ten/3/index.m3u8
